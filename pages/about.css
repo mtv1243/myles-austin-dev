@@ -1,3 +1,13 @@
+.about {
+    width: 90%;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.about-title {
+    text-align: center;
+}
+
 /* MEDIA QUERIES */
 @media only screen and (min-width: 769px) {
     
@@ -13,10 +23,6 @@
     .hero-wrapper {
         width: 50%;
         margin: 1rem auto;
-    }
-
-    .about-title {
-        text-align: center;
     }
 
     .about {
